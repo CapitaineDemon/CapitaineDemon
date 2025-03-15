@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @CapitaineDemon
-- 👀 I’m interested by Minecraft
-- 🌱 I’m currently learning The diary of a wimpy kid
+- 👋 Salut je suis @CapitaineDemon
+- 👀 Je joue à Minecraft
+- 🌱 Je lis souvent le "Journal d'un dégonflé"
+- 🇫🇷 Et je suis français !
 
 <!---
 CapitaineDemon/CapitaineDemon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
