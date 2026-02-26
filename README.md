@@ -1,4 +1,4 @@
-- 👋 Salut je suis @CapitaineDemon
+- 👋 Salut je suis @Thalioss
 - 👀 Je joue à Minecraft
 - 🌱 Je lis souvent le "Journal d'un dégonflé"
 - 🇫🇷 Et je suis français !
